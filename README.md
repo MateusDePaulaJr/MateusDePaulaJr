@@ -33,10 +33,8 @@ Paralelamente, estou aprofundando meus estudos em **programação, inteligência
 ### 🔹 Analista de Qualidade e Processos – Alumind (2022 - 2024)  
 - Implantação de melhorias em processos de qualidade.  
 - Desenvolvimento de IT’s e fluxogramas para treinamento e padronização.  
-- Aplicação de normas **ISO 9001** e análise de composições de matérias-primas.  
-
-### 🔹 Inspetor de Qualidade – TANA Services (2019 - 2019)  
-- Atuação como terceirizado em grandes indústrias (Electrolux e Brose do Brasil).  
+- Aplicação de normas **ISO 9001** e análise de composições de matérias-primas.
+  
 
 ### 🔹 Auxiliar Administrativo – RIMA Industrial (2017 - 2019)  
 - Controle de cronanálises para melhoria de processos e aproveitamento de mão de obra.  
