@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou João Mateus de Paula Jr
 
 🎯 **Supervisor de PCP | Desenvolvedor em Formação**  
-🐍 Python | Power BI | IA Generativa | Automação de Processos  
+  
 📍 São José dos Pinhais - PR, Brasil  
 
 ---
