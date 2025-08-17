@@ -3,7 +3,11 @@
 📍 São José dos Pinhais - PR, Brasil  
 
 ---
+## 📌 Sobre mim
+Profissional com **10+ anos de experiência na indústria**, atualmente em transição para **tecnologia e desenvolvimento de software**.  
+Apaixonado por **automatizar processos e aplicar IA Generativa** para transformar dados em soluções inteligentes.  
 
+---
 ## 🚀 Tecnologias & Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -15,11 +19,7 @@
 
 ---
 
-## 📌 Sobre mim
-Profissional com **10+ anos de experiência na indústria**, atualmente em transição para **tecnologia e desenvolvimento de software**.  
-Apaixonado por **automatizar processos e aplicar IA Generativa** para transformar dados em soluções inteligentes.  
 
----
 
 ## 🌐 Conecte-se comigo  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-mateus-de-paula-jr)  
