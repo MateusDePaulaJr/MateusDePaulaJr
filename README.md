@@ -1,6 +1,4 @@
 # 👋 Olá, eu sou João Mateus de Paula Jr
-
-🎯 **Supervisor de PCP | Desenvolvedor em Formação**  
   
 📍 São José dos Pinhais - PR, Brasil  
 
