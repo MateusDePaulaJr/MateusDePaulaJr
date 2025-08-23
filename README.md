@@ -5,7 +5,7 @@
 ---
 ## 📌 Sobre mim
 Profissional com **10+ anos de experiência na indústria**, atualmente em transição para **tecnologia e desenvolvimento de software**.  
-Apaixonado por **automatizar processos e aplicar IA Generativa** para transformar dados em soluções inteligentes.  
+Apaixonado por automatizar processos e transformar dados em soluções inteligentes.  
 
 ---
 ## 🚀 Tecnologias & Ferramentas
