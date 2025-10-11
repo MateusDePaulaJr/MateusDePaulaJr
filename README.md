@@ -23,4 +23,4 @@ Apaixonado por automatizar processos e transformar dados em soluções inteligen
 
 ## 🌐 Conecte-se comigo  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-mateus-de-paula-jr)  
-📧 **Email**: joao.junior@alumind.com.br  
+📧 **Email**: mjunior650@gmail.com  
